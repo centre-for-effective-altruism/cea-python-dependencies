@@ -1,4 +1,5 @@
 # CEA Dependency Test
-Please execute the command `python -m unittest rope_test.Testing`. 
+Please execute the command `python -m unittest addition_test.Testing`. 
 
-If the tests pass, you have all of the dependencies needed to do the trial task.
+If the tests pass, you have everything needed to do the trial task. (It just uses standard Python functionality,
+no external dependencies.)
